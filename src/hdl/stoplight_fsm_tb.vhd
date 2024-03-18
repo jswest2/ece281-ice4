@@ -12,7 +12,7 @@
 --|
 --| FILENAME      : stoplight_fsm_tb.vhd (TEST BENCH)
 --| AUTHOR(S)     : Maj Jeff Falkinburg, Capt Phillip Warner, Capt Dan johnson, Capt Brian Yarbrough
---|					**Your Name**
+--|					C3C Jack West
 --| CREATED       : Spring 2017 Last modified 06/24/2020
 --| DESCRIPTION   : This file provides a solution testbench for the stoplight entity
 --|
